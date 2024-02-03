@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "commonjs",
+    "moduleResolution": "node" /* Specify how TypeScript looks up a file from a given module specifier. */
+  }
+}
